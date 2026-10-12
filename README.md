@@ -1,123 +1,124 @@
+<div align="center">
 
-<!-- ================= TECH STACK & SKILLS ================= -->
+<img src="assets/web3-header.svg" alt="Sam Salmasi — AI x Web3 Builder" width="100%" />
 
-<h2 align="center">⚡ TECH STACK & SKILLS</h2>
+<a href="https://github.com/SamSalmasi">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=42F5A1&center=true&vCenter=true&width=700&lines=AI+%C3%97+Web3+Builder;Exploring+Intelligent+Systems;Building+Tools+for+the+Decentralized+Future;Less+Hype.+More+Building." alt="Animated typing introduction" />
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;Web3+%26+Blockchain+Developer;Data+%26+Quant+Trading+Explorer" />
+<p>
+  <a href="https://github.com/SamSalmasi"><img src="https://img.shields.io/badge/GitHub-SamSalmasi-101820?style=for-the-badge&logo=github&logoColor=42F5A1" alt="GitHub profile" /></a>
+  <a href="https://x.com/SalmasiSam16459"><img src="https://img.shields.io/badge/X-Follow-101820?style=for-the-badge&logo=x&logoColor=42F5A1" alt="X profile" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FULL--STACK-AI-WEB3-QUANT-0D1117?style=for-the-badge&labelColor=161B22&color=238636" />
-</p>
+`AI AGENTS` &nbsp;·&nbsp; `WEB3` &nbsp;·&nbsp; `CRYPTO TOOLS` &nbsp;·&nbsp; `AUTOMATION`
 
-<br/>
+</div>
 
-<!-- 01 LANGUAGES & WEB -->
+---
 
-<h3 align="center">🌐 01. Languages & Web Development</h3>
+## `> whoami`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
+I'm **Sam Salmasi** — a developer exploring the intersection of **AI, Web3, and crypto**.
 
-<br/>
+I like turning ideas into working experiments, learning by building, and creating tools that are useful beyond the hype.
 
-<!-- 02 AI & INTELLIGENCE -->
+- 🧠 Exploring AI-powered tools and agent workflows
+- ⛓️ Interested in blockchain ecosystems and crypto infrastructure
+- 🛠️ Building with Python, JavaScript, HTML, CSS, and PHP
+- 🌱 Learning in public and growing through open-source work
 
-<h3 align="center">🤖 02. AI & Intelligence</h3>
+## `> tech_stack`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_APIs-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-00A98F?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/STACK-OPERATIONAL-101820?style=for-the-badge&labelColor=101820&color=42F5A1" alt="Stack status: operational" />
+  <img src="https://img.shields.io/badge/LEVEL-Practical_%2B_Learning-101820?style=for-the-badge&labelColor=101820&color=7C5CFC" alt="Skill level: practical experience and ongoing learning" />
 </p>
 
-<br/>
+### `01 / LANGUAGES & WEB`
 
-<!-- 03 WEB3 & BLOCKCHAIN -->
-
-<h3 align="center">⛓️ 03. Web3 & Blockchain</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python&logoColor=42F5A1" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-101820?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-101820?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-101820?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-101820?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-101820?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-101820?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-101820?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-101820?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
 </p>
 
-<br/>
+### `02 / AI & INTELLIGENCE`
 
-<!-- 04 DEV TOOLS & INFRASTRUCTURE -->
-
-<h3 align="center">🛠️ 04. Dev Tools & Infrastructure</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_API-101820?style=for-the-badge&logo=openai&logoColor=42F5A1" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LLM_APIs-101820?style=for-the-badge&logo=googlegemini&logoColor=8E75FF" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/AI_Agents-101820?style=for-the-badge&logo=probot&logoColor=42F5A1" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-101820?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Prompt Engineering" />
 </p>
 
-<br/>
+### `03 / WEB3 & BLOCKCHAIN`
 
-<!-- 05 DATA, MARKETS & BACKTESTING -->
-
-<h3 align="center">📊 05. Data, Markets & Backtesting</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket_APIs-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backtesting-FFB000?style=for-the-badge&logo=chartdotjs&logoColor=black" />
-  <img src="https://img.shields.io/badge/MetaTrader_5-2962FF?style=for-the-badge&logo=metatrader5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trading_Bots-00C853?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Ethereum-101820?style=for-the-badge&logo=ethereum&logoColor=627EEA" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Web3.js-101820?style=for-the-badge&logo=web3dotjs&logoColor=F16822" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Ethers.js-101820?style=for-the-badge&logo=ethereum&logoColor=42F5A1" alt="Ethers.js" />
 </p>
 
-<br/>
+### `04 / DEV TOOLS & INFRASTRUCTURE`
 
-<!-- AREAS I'M EXPLORING -->
-
-<h2 align="center">🔭 Areas I'm Exploring</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3_Applications-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crypto_Analytics-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-00A98F?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Developer_Tools-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-101820?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-101820?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Vercel-101820?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-101820?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-101820?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
 </p>
 
-<p align="center">
-  <i>AI and Web3 are my focus areas, not programming languages.</i>
+### `05 / DATA, MARKETS & BACKTESTING`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-101820?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-101820?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/REST%20%2F%20WebSocket_Market_APIs-101820?style=for-the-badge&logo=socketdotio&logoColor=42F5A1" alt="REST and WebSocket market APIs" />
+  <img src="https://img.shields.io/badge/Backtesting-101820?style=for-the-badge&logo=chartdotjs&logoColor=42F5A1" alt="Backtesting" />
+  <img src="https://img.shields.io/badge/MetaTrader_5-101820?style=for-the-badge&logo=meta&logoColor=42F5A1" alt="MetaTrader 5" />
+  <img src="https://img.shields.io/badge/Trading_Bots-101820?style=for-the-badge&logo=robot&logoColor=42F5A1" alt="Trading Bots" />
 </p>
 
-<p align="center">
-  The stack above lists technologies I've said I use;
-  I'll add frameworks and tools as I confirm them.
-</p>
+> **Current level:** a mix of hands-on practice and ongoing learning. This stack reflects the technologies and areas I selected; it does not imply expert-level proficiency in every item.
 
-<br/>
+## `> current_missions`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=3" width="100%" />
-</p>
+| Mission | Objective |
+|---|---|
+| `01 / AI AGENTS` | Experiment with AI-powered workflows and useful assistants |
+| `02 / WEB3 TOOLS` | Explore practical tools for decentralized ecosystems |
+| `03 / CRYPTO INTELLIGENCE` | Investigate ways to make public crypto data easier to understand |
+| `04 / OPEN SOURCE` | Ship experiments, document them, and improve through feedback |
 
-<h3 align="center">🚀 BUILD • AUTOMATE • INNOVATE</h3>
+## `> contribution_signal`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Always+Learning.;Always+Building.;Turning+Ideas+Into+Reality." />
-</p>
+<div align="center">
 
-<!-- ================= END TECH STACK ================= -->
+<!-- The snake animation is generated by GitHub Actions. It appears after the workflow runs successfully. -->
+<img src="https://raw.githubusercontent.com/SamSalmasi/SamSalmasi/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph snake" width="100%" />
+
+</div>
+
+## `> connect`
+
+- **GitHub:** [@SamSalmasi](https://github.com/SamSalmasi)
+- **X:** [@SalmasiSam16459](https://x.com/SalmasiSam16459)
+
+---
+
+<div align="center">
+
+`THINK IN SYSTEMS` &nbsp; `BUILD IN PUBLIC` &nbsp; `SHIP USEFUL THINGS`
+
+<sub>Less hype. More building. ◈</sub>
+
+</div>
