@@ -19,7 +19,7 @@
 
 ## `> whoami`
 
-I'm **Sam Salmasi** — a developer exploring the intersection of **AI, Web3, and crypto**.
+I'm **Sam Salmasi** a developer exploring the intersection of **AI, Web3, and crypto**.
 
 I like turning ideas into working experiments, learning by building, and creating tools that are useful beyond the hype.
 
